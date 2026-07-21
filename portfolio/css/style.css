@@ -652,6 +652,10 @@ img {
     margin-bottom: 0.2rem;
 }
 
+.training-link:hover {
+    color: var(--accent-primary) !important;
+}
+
 .timeline-subtitle {
     font-size: 1rem;
     color: var(--text-secondary);
